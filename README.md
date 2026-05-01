@@ -1,2 +1,2 @@
 EXPLOSE RUST     icon
-https://vk.com/explose_rust
+https://vk.com/exploserust
